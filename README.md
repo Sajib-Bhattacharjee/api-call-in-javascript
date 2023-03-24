@@ -1,5 +1,5 @@
 <p align="center">
- <img src="images/logo_img.jpg" alt="Api calling in js" title="api" width="100%" height="500px" />
+ <img src="images/logo_img.jpg" alt="Api calling in js" title="api" width="100%" height="100%" />
 </p>
 
 ## `API Call in JavaScript`
