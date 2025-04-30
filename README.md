@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="images/logo_img.jpg" alt="API Calling in JavaScript" title="API" width="100%" height="100%" />
+  <img src="images/logo_img.png" alt="API Calling in JavaScript" title="API" width="100%" height="100%" />
 </p>
 
 <h1 align="center">📡✨ API Call in JavaScript</h1>
